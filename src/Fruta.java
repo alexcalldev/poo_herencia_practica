@@ -12,10 +12,7 @@ public class Fruta extends Producto {
         return peso;
     }
 
-
     public String getColor() {
         return color;
     }
-
-
 }

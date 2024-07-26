@@ -1,4 +1,4 @@
-public class Lacteo extends Producto{
+public class Lacteo extends Producto {
     private int cantidad;
     private int proteinas;
 

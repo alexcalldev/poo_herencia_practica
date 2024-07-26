@@ -1,4 +1,4 @@
-public class NoPerecible extends Producto{
+public class NoPerecible extends Producto {
     private int contenido;
     private int calorias;
 
